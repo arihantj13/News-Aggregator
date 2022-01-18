@@ -69,7 +69,7 @@ We uses a number of tech stacks to work properly:
 - MongoDB for database to store infromation of user crendintials and information.
 
 ## Contributors
-### Group-6
+### Group-5
 - Rishwi Prakash (S20190010151)
 - Laukik Verma (S20190010108)
 - Vedant Dhoble (S20190010187)
